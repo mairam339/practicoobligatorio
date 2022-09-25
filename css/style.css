@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand
+{
+ font-family: Arial;
+}
+
+#nomid
+{
+    color: gray;
+    font-size: 14px;
+}
